@@ -116,7 +116,6 @@ Sanford Bishop
 Drew Ferguson
 Hank Johnson
 John Lewis
-acant
 Rob Woodall
 Austin Scott
 Doug Collins
@@ -163,7 +162,6 @@ Steve King
 Roger Marshall
 Lynn Jenkins
 Kevin Yoder
-acant
 James Comer
 Brett Guthrie
 John Yarmuth
@@ -229,7 +227,6 @@ Emanuel Cleaver
 Sam Graves
 Billy Long
 Jason T. Smith
-acant
 Jeff Fortenberry
 Don Bacon
 Adrian Smith
@@ -345,7 +342,6 @@ Mark Sanford
 Joe Wilson
 Jeff Duncan
 Trey Gowdy
-acant
 Jim Clyburn
 Tom Rice
 Kristi Noem
