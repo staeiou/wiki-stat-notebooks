@@ -1,7 +1,7 @@
 Richard Shelby
 Luther Strange
 Lisa Murkowski
-Dan Sullivan
+Dan Sullivan (U.S. Senator)
 John McCain
 Jeff Flake
 John Boozman
@@ -11,7 +11,7 @@ Kamala Harris
 Michael Bennet
 Cory Gardner
 Richard Blumenthal
-Chris Murphy
+Chris Murphy (Connecticut politician)
 Tom Carper
 Chris Coons
 Bill Nelson
@@ -41,7 +41,7 @@ Chris Van Hollen
 Elizabeth Warren
 Ed Markey
 Debbie Stabenow
-Gary Peters
+Gary Peters (politician)
 Amy Klobuchar
 Al Franken
 Thad Cochran
@@ -74,7 +74,7 @@ Ron Wyden
 Jeff Merkley
 Bob Casey Jr.
 Pat Toomey
-Jack Reed
+Jack Reed (politician)
 Sheldon Whitehouse
 Lindsey Graham
 Tim Scott
@@ -85,7 +85,7 @@ Bob Corker
 John Cornyn
 Ted Cruz
 Orrin Hatch
-Mike Lee
+Mike Lee (U.S. politician)	
 Patrick Leahy
 Bernie Sanders
 Mark Warner
@@ -94,7 +94,7 @@ Patty Murray
 Maria Cantwell
 Joe Manchin
 Shelley Moore Capito
-Ron Johnson
+Ron Johnson (U.S. politician)
 Tammy Baldwin
 Mike Enzi
 John Barrasso
