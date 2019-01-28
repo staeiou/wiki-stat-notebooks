@@ -4,3 +4,4 @@ matplotlib >= 3.0.2
 requests >= 2.20.0
 pywikibot >= 3.0
 wikipedia >= 1.4.0
+mwviews >= 0.1.0
